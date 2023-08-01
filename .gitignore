@@ -1,3 +1,5 @@
 mernapp/node_modules
 node_modules/
 node_modules
+mernapp/backend/package-lock.json
+mernapp/backend/package.json
